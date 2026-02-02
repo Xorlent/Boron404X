@@ -5,8 +5,9 @@
 - [3.3V isolated relay module](https://www.amazon.com/dp/B09SZ71K4L)
 
 ### Print Settings
+- .40 mm nozzle
 - .25 mm layer height (minimum)
-- 
+- No supports
 
 ### Renderings
 ![Rendering1](https://github.com/Xorlent/Boron404X/blob/main/Cases/404X%2BRelay/404X%2BRelay_2.png)
