@@ -7,6 +7,8 @@
 ### Print Settings
 - .40 mm nozzle
 - .25 mm layer height (minimum)
+- 3 walls, 3 top and bottom layers
+- 10% Gyroid infill
 - No supports
 
 ### Renderings
