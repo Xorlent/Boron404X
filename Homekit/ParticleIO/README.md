@@ -2,6 +2,11 @@
 
 This project demonstrates integration of Particle.io cloud services with HomeSpan to control Particle.io devices via Apple HomeKit. The Particle implementation follows existing HomeSpan conventions to simplify setup.  Particle.io API calls are non-blocking to ensure proper HomeSpan operation, even with high latency LTE-M Particle.io devices.  The [Boron404X Starter Kit](https://store.particle.io/collections/all-products/products/boron-lte-cat-m1-noram-starter-kit-with-ethersim-brn404xkit) includes a SIM that is free of activation or service fees.  For simple use cases, the included 100,000 monthly data operations are enough to use the device with no monthly charge -- and no credit card is required.
 
+## Required Hardware
+
+- **ESP32 Dev Board**: This device will run the ParticleIO.ino sketch and serve as the bridge between Apple Homekit and the Particle.io device
+- **Particle Boron404X Starter Kit**: This device will run the ParticleGateBoron404X.ino sketch, acting as the cellular-connected gate opener in this demo project
+
 ## Files
 
 - **ParticleIO.ino**: Main sketch demonstrating a gate opener
