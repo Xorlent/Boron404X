@@ -1,0 +1,1 @@
+Companion file for a [Boron 404X](https://store.particle.io/collections/all-products/products/boron-lte-cat-m1-noram-starter-kit-with-ethersim-brn404xkit) acting as a gate opener device, connected via LTE-M to the Particle.io cloud
